@@ -12,6 +12,16 @@ a, i {
     color: #555;
 }
 
+h2 {
+    color: #25282e;
+    font-size: 20px;
+}
+
+#text-artista {
+    text-align: justify;
+    padding-top: 30px;
+}
+
 /*faz com que a imagem que for inserida à div, se adapte ao tamanho da div (com o background-size), com o background-position é possível centralizar totalmente a imagem*/
 .center-image{
     background-size: cover;
@@ -158,3 +168,36 @@ footer p {
 a:hover i {
     color: #C1B696;
 }
+
+/*artistas*/
+
+#artista1 {
+    background-image: url('../img/andreia-falqueto.png');
+    height: 700px;
+}
+
+#artista2 {
+    background-image: url('../img/juliana-pessoa.png');
+    height: 700px;
+}
+
+#artista3 {
+    background-image: url('../img/castiel-vitorino.png');
+    height: 700px;
+}
+
+#artista4 {
+    background-image: url('../img/ione-reis.png');
+    height: 700px;
+}
+
+#img5 {
+    background-image: url('../img/imagem5.png');
+    height: 900px;
+}
+
+#description-container {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
