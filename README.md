@@ -2,7 +2,7 @@
 
 <p>Este projeto é uma página web responsiva desenvolvida com Bootstrap, com o objetivo de praticar a estruturação de layouts modernos e funcionais.</P>
 
-<h2>✨ Funcionalidades<h2>
+<h2>✨ Funcionalidades</h2>
 <ul>
 <li>Layout Responsivo: Utilizei o sistema de grid e containers do Bootstrap para organizar o conteúdo de forma clara, flexível e adaptável.</li>
 <li>Imagens e Textos Bem Distribuídos: As classes de container, row e col foram aplicadas para alinhar imagens e textos de maneira harmoniosa e visualmente agradável.</li>
@@ -17,9 +17,15 @@
 <li>CSS3</li>
 <li>Bootstrap 5</li>
 </ul>
-💡 Aprendizados
+
+<h2>💡 Aprendizados</h2>
+<ul>
 <li>Com esse projeto, desenvolvi habilidades como:
 <li>Uso eficiente do sistema de grid e containers do Bootstrap;</li>
 <li>Criação de menus e navegação responsiva;</li>
 <li>Organização de conteúdo com foco em design responsivo e mobile-first;</li>
 <li>Integração de links externos de forma funcional e intuitiva.</li>
+</ul>
+
+<h2>📸 Demonstração</h2>
+ <img src="_img/readme.png" alt="readme">
