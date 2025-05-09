@@ -28,4 +28,5 @@
 </ul>
 
 <h2>📸 Demonstração</h2>
- <img src="_img/readme.png" alt="readme">
+
+![image](https://github.com/user-attachments/assets/990ea482-b405-4966-a565-09cd486756ba)
